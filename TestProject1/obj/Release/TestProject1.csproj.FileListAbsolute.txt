@@ -1,0 +1,7 @@
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\TestProject1\bin\Release\TestProject1.dll
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\TestProject1\bin\Release\TestProject1.pdb
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\TestProject1\bin\Release\RestartExplorer.exe
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\TestProject1\bin\Release\RestartExplorer.pdb
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\TestProject1\obj\Release\ResolveAssemblyReference.cache
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\TestProject1\obj\Release\TestProject1.dll
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\TestProject1\obj\Release\TestProject1.pdb

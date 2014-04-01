@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="967ad6c3-2024-4ee2-8bad-828f3952feba" name="wbm@WBMPC 2014-01-05 14:34:49" runUser="WBMPC\wbm" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="3523296d-e458-4397-8cac-3d6e78b36de4">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\TestResults\wbm_WBMPC 2014-01-05 14_34_49">
+      <DeploymentItem filename="G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\RestartExplorer\bin\Release\RestartExplorer.exe" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" passed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2014-01-05T14:34:49.1406250+08:00" queuing="2014-01-05T14:34:53.3593750+08:00" start="2014-01-05T14:34:53.7031250+08:00" finish="2014-01-05T14:34:55.3437500+08:00" />
+  <TestDefinitions>
+    <UnitTest name="restartDDTest" storage="g:\documents and settings\wbm\my documents\visual studio 2008\projects\restartexplorer\testproject1\bin\release\testproject1.dll" id="fe1ff3f7-c31c-02ad-9a1d-7d34b660b291">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="5b054933-bfa9-4ca0-bd8b-61ad5b04e7be" />
+      <TestMethod codeBase="G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\TestProject1\bin\Release\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.Form1Test, TestProject1" name="restartDDTest" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="g:\documents and settings\wbm\my documents\visual studio 2008\projects\restartexplorer\testproject1\bin\release\testproject1.dll" id="59863143-3238-122e-4d8a-637b491cc755">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="fbbed5b9-46ad-43e0-b603-9394245d240f" />
+      <TestMethod codeBase="G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\TestProject1\bin\Release\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="59863143-3238-122e-4d8a-637b491cc755" executionId="fbbed5b9-46ad-43e0-b603-9394245d240f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fe1ff3f7-c31c-02ad-9a1d-7d34b660b291" executionId="5b054933-bfa9-4ca0-bd8b-61ad5b04e7be" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fbbed5b9-46ad-43e0-b603-9394245d240f" testId="59863143-3238-122e-4d8a-637b491cc755" testName="TestMethod1" computerName="WBMPC" duration="00:00:00.0066793" startTime="2014-01-05T14:34:53.7968750+08:00" endTime="2014-01-05T14:34:54.1718750+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5b054933-bfa9-4ca0-bd8b-61ad5b04e7be" testId="fe1ff3f7-c31c-02ad-9a1d-7d34b660b291" testName="restartDDTest" computerName="WBMPC" duration="00:00:00.9109504" startTime="2014-01-05T14:34:54.1875000+08:00" endTime="2014-01-05T14:34:55.1093750+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject1.Form1Test.restartDDTest threw exception:  System.ArgumentNullException: Object cannot be null..</Message>
+          <StackTrace>    at System.Threading.ThreadPool.RegisterWaitForSingleObjectNative(WaitHandle waitHandle, Object state, UInt32 timeOutInterval, Boolean executeOnlyOnce, RegisteredWaitHandle registeredWaitHandle, StackCrawlMark&amp; stackMark, Boolean compressStack)
+   at System.Threading.ThreadPool.RegisterWaitForSingleObject(WaitHandle waitObject, WaitOrTimerCallback callBack, Object state, UInt32 millisecondsTimeOutInterval, Boolean executeOnlyOnce, StackCrawlMark&amp; stackMark, Boolean compressStack)
+   at System.Threading.ThreadPool.RegisterWaitForSingleObject(WaitHandle waitObject, WaitOrTimerCallback callBack, Object state, Int32 millisecondsTimeOutInterval, Boolean executeOnlyOnce)
+   at RestartExplorer.Form1..ctor() in G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\RestartExplorer\Form1.cs:line 62
+   at TestProject1.Form1Test.restartDDTest() in G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\TestProject1\Form1Test.cs:line 71
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

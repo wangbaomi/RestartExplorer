@@ -1,0 +1,8 @@
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\RestartExplorer\bin\Debug\RestartExplorer.exe
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\RestartExplorer\bin\Debug\RestartExplorer.pdb
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\RestartExplorer\obj\Debug\ResolveAssemblyReference.cache
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\RestartExplorer\obj\Debug\RestartExplorer.Form1.resources
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\RestartExplorer\obj\Debug\RestartExplorer.Properties.Resources.resources
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\RestartExplorer\obj\Debug\RestartExplorer.csproj.GenerateResource.Cache
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\RestartExplorer\obj\Debug\RestartExplorer.exe
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\RestartExplorer\RestartExplorer\obj\Debug\RestartExplorer.pdb
